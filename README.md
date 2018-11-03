@@ -21,7 +21,7 @@ The following tools were used
 * Git
 
 ## Screen 
-![Screen](https://github.com/wojtekboj/module_2-2.5/blob/master/images/screencapture.png)
+![Screen](https://github.com/wojtekboj/module-2-2.5/blob/master/images/screencapture.png)
 
 ## Working Page
 https://wojtekboj.github.io/module_2/2.5/index.html
